@@ -28,7 +28,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://feyd-dent.github.io/service_worker_test/index.html",
+  "id": "/service_worker_test/index.html",
+  "start_url": "/service_worker_test/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
