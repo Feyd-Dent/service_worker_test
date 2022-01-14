@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/service_worker_test/static/css/main.b7be58ad.css",
-    "main.js": "/service_worker_test/static/js/main.0b599c3c.js",
+    "main.css": "/service_worker_test/static/css/main.1f08faaa.css",
+    "main.js": "/service_worker_test/static/js/main.417faf75.js",
     "service-worker.js": "/service_worker_test/service-worker.js",
     "static/media/SEGA.woff": "/service_worker_test/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/service_worker_test/index.html",
-    "main.b7be58ad.css.map": "/service_worker_test/static/css/main.b7be58ad.css.map",
-    "main.0b599c3c.js.map": "/service_worker_test/static/js/main.0b599c3c.js.map"
+    "main.1f08faaa.css.map": "/service_worker_test/static/css/main.1f08faaa.css.map",
+    "main.417faf75.js.map": "/service_worker_test/static/js/main.417faf75.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7be58ad.css",
-    "static/js/main.0b599c3c.js"
+    "static/css/main.1f08faaa.css",
+    "static/js/main.417faf75.js"
   ]
 }
